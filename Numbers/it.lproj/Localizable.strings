@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Numbers
+
+  Created by zlata samarskaya on 13.10.14.
+  Copyright (c) 2014 zlata samarskaya. All rights reserved.
+*/
+
+"Start" = "Inizio";
+"Rules" = "Regole";
+"Modes" = "Modalità";
+"Line" = "Linea";
+"2 digits" = "2 cifre";
+"3 digits" = "3 cifre";
+"4 digits" = "4 cifre";
+"High Scores" = "Punteggi Più Alti";
+"Other Apps" = "Altre applicazioni";
+
+
+
+"Scores" = " Punteggio";
+"Level" = " Livello";
+"Game Over!\nYour scores" = "E finito il gioco!\nIl tuo risultato";
+"High Score" = "Puteggio ";
+
+
+
+"help_" = "help_en";
+"help_Pad_" = "help_Pad_en";
